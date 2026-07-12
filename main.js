@@ -2,235 +2,206 @@
 const productosJabones = [
   {
     id: 1,
-    title: "Combo 3 jabones de Calendula (Flor, Mariposa, Rosa)",
-    price: 12500,
-    category: "Calendula",
-    image: "img/combo 3 jabones de calendula.jpeg",
-    description: "Hermoso set tallado con formas naturales. Ideal para calmar pieles delicadas gracias a sus extractos botánicos naturales."
+    title: "Racimo de Uvas",
+    price: 25000,
+    category: "Chocolate",
+    image: "img/Racimo de Uvas (Chocolate).jpeg"
   },
   {
     id: 2,
-    title: "Jabon de Calendula (Corazon)",
+    title: "Jabon (Corazon)",
     price: 5000,
     category: "Calendula",
-    image: "img/jabon de calendula (Corazon).jpeg",
-    description: "Corte cilíndrico enriquecido con partículas de hierbas aromáticas que remueven impurezas de manera suave y profunda."
+    image: "img/jabon de calendula (Corazon).jpeg"
   },
   {
     id: 3,
-    title: "Jabón de Calendula (Flor Margarita)",
-    price: 10000,
+    title: "Jabón (Flor Margarita)",
+    price: 12000,
     category: "Calendula",
-    image: "img/jabon de calendula (Flor Margarita).jpeg",
-    description: "Cinco jabones artesanales en forma de corazón con relieve texturizado. Perfectos para regalar o para consentir tu piel diariamente."
+    image: "img/jabon de calendula (Flor Margarita).jpeg"
   },
   {
     id: 4,
-    title: "Jabón de Calendula ( Mariposa)",
+    title: "Jabón ( Mariposa)",
     price: 8000,
     category: "Calendula",
-    image: "img/jabon de calendula (Mariposa).jpeg",
-    description: "Divertido y tierno jabón en forma de huella de mascota. Elaborado con ingredientes hipoalergénicos extremadamente suaves."
+    image: "img/jabon de calendula (Mariposa).jpeg"
   },
   {
     id: 5,
-    title: "Jabón de Calendula (Rosa)",
+    title: "Jabón (Rosa)",
     price: 8000,
     category: "Calendula",
-    image: "img/jabon de calendula (Rosa).jpeg",
-    description: "Detallada mariposa enriquecida con café orgánico y arcillas. Activa la circulación corporal aportando firmeza."
+    image: "img/jabon de calendula (Rosa).jpeg"
   },
   {
     id: 6,
-    title: "Jabon de Arroz (Hawayana)",
-    price: 8000,
+    title: "Jabon (Hawayana)",
+    price: 9000,
     category: "Arroz",
-    image: "img/jabon de arroz ( Hawayana).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/jabon de arroz ( Hawayana).jpeg"
   },
   {
     id: 7,
-    title: "Jabón de Arroz (Flor Elice)",
-    price: 10000,
+    title: "Jabón (Flor Elice)",
+    price: 12000,
     category: "Arroz",
-    image: "img/jabon de arroz (Flor Elice).jpeg",
-    description: "Hermoso set tallado con formas naturales. Ideal para calmar pieles delicadas gracias a sus extractos botánicos naturales."
+    image: "img/jabon de arroz (Flor Elice).jpeg"
   },
   {
     id: 8,
-    title: "Jabón de Arroz (Flor Margarita)",
-    price: 10000,
+    title: "Jabón (Flor Margarita)",
+    price: 12000,
     category: "Arroz",
-    image: "img/jabon de arroz (Flor Margarita).jpeg",
-    description: "Corte cilíndrico enriquecido con partículas de hierbas aromáticas que remueven impurezas de manera suave y profunda."
+    image: "img/jabon de arroz (Flor Margarita).jpeg"
   },
   {
     id: 9,
-    title: "Jabón de Arroz (Gelatina Estrella)",
-    price: 10000,
+    title: "Jabón (Gelatina Estrella)",
+    price: 12000,
     category: "Arroz",
-    image: "img/jabon de arroz (Gelatina Estrella).jpeg",
-    description: "Cinco jabones artesanales en forma de corazón con relieve texturizado. Perfectos para regalar o para consentir tu piel diariamente."
+    image: "img/jabon de arroz (Gelatina Estrella).jpeg"
   },
   {
     id: 10,
-    title: "Jabón de Arroz (Mariposa)",
+    title: "Jabón (Mariposa)",
     price: 8000,
     category: "Arroz",
-    image: "img/jabon de arroz (Mariposa).jpeg",
-    description: "Divertido y tierno jabón en forma de huella de mascota. Elaborado con ingredientes hipoalergénicos extremadamente suaves."
+    image: "img/jabon de arroz (Mariposa).jpeg"
   },
   {
     id: 11,
-    title: "Jabón de Arroz (Mico)",
+    title: "Jabón (Mico)",
     price: 8000,
     category: "Arroz",
-    image: "img/jabon de arroz (Mico).jpeg",
-    description: "Detallada mariposa enriquecida con café orgánico y arcillas. Activa la circulación corporal aportando firmeza."
+    image: "img/jabon de arroz (Mico).jpeg"
   },
   {
     id: 12,
-    title: "Jabón de Arroz (Pato)",
+    title: "Jabón (Pato)",
     price: 6000,
     category: "Arroz",
-    image: "img/jabon de arroz (Pato).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/jabon de arroz (Pato).jpeg"
   },
   {
     id: 13,
-    title: "Jabón de Arroz (Rosa)",
-    price: 8000,
+    title: "Jabón (Rosa)",
+    price: 9000,
     category: "Arroz",
-    image: "img/jabon de arroz (Rosa).jpeg",
-    description: "Hermoso set tallado con formas naturales. Ideal para calmar pieles delicadas gracias a sus extractos botánicos naturales."
+    image: "img/jabon de arroz (Rosa).jpeg"
   },
   {
     id: 14,
-    title: "Jabón de Arroz (Tortuga)",
+    title: "Jabón (Tortuga)",
     price: 6000,
     category: "Arroz",
-    image: "img/jabon de arroz (Tortuga).jpeg",
-    description: "Corte cilíndrico enriquecido con partículas de hierbas aromáticas que remueven impurezas de manera suave y profunda."
+    image: "img/jabon de arroz (Tortuga).jpeg"
   },
   {
     id: 15,
-    title: "Jabón de Curcuma (Doble Flor)",
-    price: 10000,
+    title: "Jabón (Dona Doble Flor)",
+    price: 12000,
     category: "Curcuma",
-    image: "img/jabon de curcuma (Doble Flor).jpeg",
-    description: "Cinco jabones artesanales en forma de corazón con relieve texturizado. Perfectos para regalar o para consentir tu piel diariamente."
+    image: "img/jabon de curcuma (Doble Flor).jpeg"
   },
   {
     id: 16,
-    title: "Jabón de Curcuma (Flor Margarita)",
-    price: 10000,
+    title: "Jabón (Flor Margarita)",
+    price: 12000,
     category: "Curcuma",
-    image: "img/jabon de curcuma (Flor Margarita).jpeg",
-    description: "Divertido y tierno jabón en forma de huella de mascota. Elaborado con ingredientes hipoalergénicos extremadamente suaves."
+    image: "img/jabon de curcuma (Flor Margarita).jpeg"
   },
   {
     id: 17,
-    title: "Jabón de Curcuma (Gelatina Estrella)",
-    price: 10000,
+    title: "Jabón (Gelatina Estrella)",
+    price: 12000,
     category: "Curcuma",
-    image: "img/jabon de curcuma (Gelatina Estrella).jpeg",
-    description: "Detallada mariposa enriquecida con café orgánico y arcillas. Activa la circulación corporal aportando firmeza."
+    image: "img/jabon de curcuma (Gelatina Estrella).jpeg"
   },
   {
     id: 18,
-    title: "Jabón de Curcuma (Gelatina)",
-    price: 10000,
+    title: "Jabón (Pudin)",
+    price: 12000,
     category: "Curcuma",
-    image: "img/jabon de curcuma (Gelatina).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/jabon de curcuma (Gelatina).jpeg"
   },
   {
     id: 19,
-    title: "Jabón de Curcuma (Hawayana)",
-    price: 8000,
+    title: "Jabón (Hawayana)",
+    price: 9000,
     category: "Curcuma",
-    image: "img/jabon de curcuma (Hawayana).jpeg",
-    description: "Detallada mariposa enriquecida con café orgánico y arcillas. Activa la circulación corporal aportando firmeza."
+    image: "img/jabon de curcuma (Hawayana).jpeg"
   },
   {
     id: 20,
-    title: "Jabón de Curcuma (Rosa)",
-    price: 8000,
+    title: "Jabón (Rosa)",
+    price: 9000,
     category: "Curcuma",
-    image: "img/jabon de curcuma (Rosa).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/jabon de curcuma (Rosa).jpeg"
   },
   {
     id: 21,
     title: "Jabón (Racimo de Uvas)",
     price: 25000,
     category: "Racimo de Uvas",
-    image: "img/Jabon Racimos de Uvas.jpeg",
-    description: "Detallada mariposa enriquecida con café orgánico y arcillas. Activa la circulación corporal aportando firmeza."
+    image: "img/Jabon Racimos de Uvas.jpeg"
   },
   {
     id: 22,
     title: "Jabón (Dinosaurio)",
     price: 12000,
     category: "Dinosaurios",
-    image: "img/Jabon (Dinosaurio).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/Jabon (Dinosaurio).jpeg"
   },
   {
     id: 23,
     title: "Jabon de savila (Masajeador)",
     price: 12000,
     category: "Citricos",
-    image: "img/Jabon (Masajeador).jpeg",
-    description: "Detallada mariposa enriquecida con café orgánico y arcillas. Activa la circulación corporal aportando firmeza."
+    image: "img/Jabon (Masajeador).jpeg"
   },
   {
     id: 24,
     title: "Jabón (Bebe)",
-    price: 10000,
+    price: 12000,
     category: "Talco de Bebe",
-    image: "img/Jabon (Bebe).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/Jabon (Bebe).jpeg"
   },
   {
     id: 25,
     title: "Jabón (Colmena) ",
     price: 10000,
     category: "Línea Premium",
-    image: "",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: ""
   },
   {
     id: 26,
     title: "Jabón (Corazon)",
     price: 5000,
     category: "Calendula",
-    image: "img/corazon.jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/corazon.jpeg"
   },
   {
     id: 27,
     title: "Jabón de Chocolate (Circular)",
-    price: 10000,
+    price: 12000,
     category: "Chocolate",
-    image: "img/Jabon de Chocolate (Circular).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/Jabon de Chocolate (Circular).jpeg"
   },
   {
     id: 28,
     title: "Jabón de Miel (Colmena)",
     price: 10000,
     category: "Miel",
-    image: "img/Jabon de Miel (Colmena).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/Jabon de Miel (Colmena).jpeg"
   },
   {
     id: 29,
     title: "Jabón de Miel y Avena (Colmena)",
-    price: 5000,
+    price: 10000,
     category: "Miel y Avena",
-    image: "img/Jabon de Miel y Avena (Colmena).jpeg",
-    description: "Set premium de 6 jabones surtidos (rosas, girasoles, espirales). Máxima hidratación con tonalidades terracotas naturales."
+    image: "img/Jabon de Miel y Avena (Colmena).jpeg"
   }
 ];
 
