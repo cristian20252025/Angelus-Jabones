@@ -26,7 +26,7 @@ const productosJabones = [
     title: "Jabón (Mariposa)",
     price: 8000,
     category: "Calendula",
-    image: "img/Jabon de calendula (mariposa).jpeg"
+    image: "img/Jabon de calendula (Mariposa).jpeg"
   },
   {
     id: 5,
