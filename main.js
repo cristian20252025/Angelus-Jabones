@@ -103,7 +103,7 @@ const productosJabones = [
     title: "Jabón (Dona Doble Flor)",
     price: 12000,
     category: "leche",
-    image: "img/Jabon de leche (dona).jpeg"
+    image: "img/Jabon de leche (Dona).jpeg"
   },
   {
     id: 16,
