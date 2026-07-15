@@ -138,7 +138,7 @@ const productosJabones = [
     title: "Jabón (Rosa)",
     price: 9000,
     category: "Curcuma",
-    image: "img/Jabon de curcuma (rosa).jpeg"
+    image: "img/Jabon de curcuma (Rosa).jpeg"
   },
   {
     id: 21,
